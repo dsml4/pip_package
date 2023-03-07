@@ -1,3 +1,4 @@
 [submodule "dsml4s8e"]
 	path = dsml4s8e
 	url = https://github.com/dsml4/dsml4s8e.git
+	branch = master
